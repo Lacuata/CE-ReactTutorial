@@ -1,0 +1,27 @@
+Comparison Props and State in React
+
+Props 
+
+Props get passed to the compoent
+
+Function Parameters
+
+props are immutable
+
+// to access props in compoennts
+props - Function Components 
+this.props - Class Components
+
+
+
+State 
+
+state is managed with the component
+
+Variable declared in the function body
+
+State can be changed
+
+//State can be acces using 
+useState Hook = Functional Components
+this.state - Class components
